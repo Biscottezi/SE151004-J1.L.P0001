@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class GradeManager {
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Bonjour");
        int userChoice;
        String answer;
        Scanner sc = new Scanner(System.in);
